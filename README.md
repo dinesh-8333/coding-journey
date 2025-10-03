@@ -83,3 +83,20 @@ No excuses. Consistent progress.
 ---
 
 *Last Updated: October 3, 2025*
+
+
+---
+
+## Daily Log
+
+### Day 0 (Oct 3, 2025)
+- Installed Homebrew, Python, Git
+- Set up Cursor IDE
+- Created GitHub repository
+- Wrote README, WHY.md, test.py
+- First commit and push successful
+
+### Day 1 (Oct 3, 2025)
+- Learning Git fundamentals
+- Understanding commits, staging, branches
+- Practice workflow
