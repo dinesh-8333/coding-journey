@@ -87,7 +87,7 @@ No excuses. Consistent progress.
 
 ---
 
-## Daily Log
+## Journey Log
 
 ### Day 0 (Oct 3, 2025)
 - Installed Homebrew, Python, Git
